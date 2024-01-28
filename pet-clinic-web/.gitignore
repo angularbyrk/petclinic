@@ -36,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/webapps/pet-clinic-web-0.0.1.jar
+/pom.xml.releaseBackup
