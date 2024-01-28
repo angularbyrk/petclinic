@@ -47,6 +47,6 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:angularbyrk/petclinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:angularbyrk/petclinic.git</developerConnection>
   </scm>
 </project>
